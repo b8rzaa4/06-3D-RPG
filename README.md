@@ -8,4 +8,4 @@ Based on the [Kenney Character Assets](https://kenney.itch.io/kenney-character-a
 Created in Blender 2.9 and Godot 3.3
 
 ## Created By
-BL-MSCH-C220-S21
+Brooklynn Zabel
